@@ -11,7 +11,7 @@ body{
   text-decoration: line-through 2px red;
   -webkit-text-decoration-line: line-through;
   -webkit-text-decoration-color: red;
-  -webkit-text-decoration-thickness: 2px;
+  -webkit-text-decoration-thickness: 4px;
   background-color: #f0f0f0;
 }
 li,ul{
